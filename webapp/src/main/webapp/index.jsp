@@ -32,4 +32,9 @@ Hello, World!
 </header>
 
 
+<hgroup>
+  <h1>Heading 1</h1>
+  <h2>Subheading 1</h2>
+  <h2>Subheading 2</h2>
+</hgroup>
 
